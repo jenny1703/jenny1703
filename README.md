@@ -1,19 +1,19 @@
 # 👋 ¡Hola, soy Jennifer Zamora!  
-### 🚀 Desarrolladora Full Stack | Django | React | .NET  
+### 🚀 Futura Desarrolladora Full Stack  
 
-Soy estudiante de **Ingeniería de Sistemas** con experiencia en **Django, React, .NET y Bootstrap**.  
+Soy estudiante de se últimos semestres en **Ingeniería de Sistemas** con experiencia básica en **Django, React, .NET y Bootstrap**.  
 Me apasiona el desarrollo web, la optimización de procesos y la arquitectura de software.  
 
 📍 **Ubicación:** Bogotá, Colombia  
-📧 **Contacto:** [LinkedIn](https://www.linkedin.com/in/jenniferzamorait/) | [Correo](mailito:jennyzamora1703@gmail.com)  
+📧 **Contacto:** [LinkedIn](https://www.linkedin.com/in/jenniferzamorait/) | [Correo](jennyzamora1703@gmail.com)  
 
 ---
 
 ## 🚀 Tecnologías y Herramientas  
 💻 **Backend:** Django | .NET | Node.js  
 🎨 **Frontend:** React | Bootstrap | HTML | CSS  
-📡 **Bases de datos:** PostgreSQL | SQLite | MySQL  
-⚙ **Herramientas:** Git | GitHub | Azure  
+📡 **Bases de datos:** | MySQL  
+⚙ **Herramientas:** | GitHub | Azure  
 
 ---
 
