@@ -5,7 +5,7 @@ Soy estudiante de **Ingeniería de Sistemas** con experiencia en **Django, React
 Me apasiona el desarrollo web, la optimización de procesos y la arquitectura de software.  
 
 📍 **Ubicación:** Bogotá, Colombia  
-📧 **Contacto:** [LinkedIn](https://www.linkedin.com/in/jenniferzamorait/) | [Correo](jennyzamora1703@gmail.com)  
+📧 **Contacto:** [LinkedIn](https://www.linkedin.com/in/jenniferzamorait/) | [Correo](mailito:jennyzamora1703@gmail.com)  
 
 ---
 
