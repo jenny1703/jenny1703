@@ -40,7 +40,7 @@ Me apasiona el desarrollo web, la optimización de procesos y la arquitectura de
 ## 💬 ¡Hablemos!  
 Si quieres colaborar en algún proyecto o simplemente conectar, aquí están mis redes:  
 
-🌐 **LinkedIn:** [linkedin.com/in/tuperfil](https://www.linkedin.com/in/jenniferzamorait/)  
-📧 **Correo:** [tuemail@gmail.com](jennyzamora1703@gmail.com)  
+🌐 **LinkedIn:** [[linkedin.com/in/tuperfil](https://www.linkedin.com/in/jenniferzamorait/)](https://www.linkedin.com/in/jenniferzamorait/)  
+📧 **Correo:** [jennyzamora1703@gmail.com](jennyzamora1703@gmail.com)  
 
 ¡Gracias por visitar mi perfil! 😊🚀  
